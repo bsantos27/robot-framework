@@ -6,3 +6,5 @@
 /app/mark85/web/node_modules/
 # Build
 /app/mark85/web/build/
+
+/mark-robot-express/logs/
