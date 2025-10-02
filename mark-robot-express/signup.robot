@@ -4,7 +4,7 @@ Documentation    Online
 Library    Browser
 
 *** Test Cases ***
-Dece poder cadastrar um novo usuario
+Deve poder cadastrar um novo usuario
 
     New Browser    browser=chromium    headless=False
     New Page    http://localhost:3000/signup
