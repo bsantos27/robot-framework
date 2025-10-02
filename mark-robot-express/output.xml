@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.3.2 (Python 3.13.7 on win32)" generated="2025-10-02T09:11:02.933552" rpa="false" schemaversion="5">
+<suite id="s1" name="Hello" source="c:\Users\DSV-Bruno Santos\Documents\Curso\robot-framework\mark-robot-express\hello.robot">
+<test id="s1-t1" name="Say Hello" line="5">
+<kw name="Log" owner="BuiltIn">
+<msg time="2025-10-02T09:11:02.988939" level="INFO">Hello, World!</msg>
+<arg>Hello, World!</arg>
+<doc>Logs the given message with the given level.</doc>
+<status status="PASS" start="2025-10-02T09:11:02.988556" elapsed="0.017227"/>
+</kw>
+<status status="PASS" start="2025-10-02T09:11:02.987152" elapsed="0.020671"/>
+</test>
+<doc>A simple hello world example</doc>
+<status status="PASS" start="2025-10-02T09:11:02.962994" elapsed="0.047278"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Hello" id="s1" pass="1" fail="0" skip="0">Hello</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

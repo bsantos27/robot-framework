@@ -1,0 +1,8 @@
+/app/mark85/web/node_modules/
+
+/app/mark85/api/node_modules/
+
+# Node modules
+/app/mark85/web/node_modules/
+# Build
+/app/mark85/web/build/
