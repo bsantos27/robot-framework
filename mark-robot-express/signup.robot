@@ -16,4 +16,6 @@ Deve poder cadastrar um novo usuario
     Fill Text    id=email    ester@hotmail.com
     Fill Text    id=password    123456
 
+    Click        id=buttonSignup
+
     Sleep    5 
